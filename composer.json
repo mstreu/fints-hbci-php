@@ -1,5 +1,5 @@
 {
-  "name": "mschindler83/fints-hbci-php",
+  "name": "mstreu/fints-hbci-php",
   "description": "PHP Library for the protocols fints and hbci",
   "homepage": "http://fints-hbci-php.markus-schindler.de",
   "version": "1.0.4",
