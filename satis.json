@@ -1,0 +1,8 @@
+{
+  "name": "mstreu/fints",
+  "homepage": "http://packages.example.org",
+  "repositories": [
+    { "type": "vcs", "url": "https://github.com/mstreu/fints-hbci-php.git" }
+  ],
+  "require-all": true
+}
